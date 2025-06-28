@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**junaid-2k3/junaid-2k3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Junaid**, a Computer Science freshman at FAST-NUCES.
 
-Here are some ideas to get you started:
+* 🖥️  Strong grasp of **C++**, with two repos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * One covering **basics and OOP**.
+  * Another covering **data structures**.
+* 🐍 Currently learning **Python**.
+* 🌐 Exploring **Web Development** to become a **Full Stack Developer**.
+
+### 🚀 What I'm working on
+
+* Python projects.
+* Building my web development skills.
+
+Feel free to check out my repos and connect!
